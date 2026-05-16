@@ -55,6 +55,7 @@ Authors
 --------------------------------------------------
 
 [Rawan Abdo] – FCFS Algorithm
+
 [Sawzar Arsalan] – SJF Algorithm
 
 --------------------------------------------------
