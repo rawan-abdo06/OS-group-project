@@ -1,10 +1,6 @@
-# CS11335 Operating Systems
-# Princess Sumaya University for Technology
-# Algorithm: First-Come First-Served (FCFS) - Non-Preemptive
-
 
 def fcfs(processes):
-    # sort by arrival time, if two processes arrive at the same time use pid to decide
+    
     procs = sorted(processes, key=lambda p: (p['arrival'], p['pid']))
     n = len(procs)
 
